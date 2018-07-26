@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="firstSeleniumT" external.linked.project.path="$MODULE_DIR$/../../firstSeleniumT" external.root.project.path="$MODULE_DIR$/../../firstSeleniumT" external.system.id="GRADLE" external.system.module.group="tel-ranQA13" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../firstSeleniumT">
+      <excludeFolder url="file://$MODULE_DIR$/../../firstSeleniumT/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../firstSeleniumT/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../firstSeleniumT/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
